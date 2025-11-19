@@ -2,7 +2,7 @@
 <!--        🌟 PROFILE BANNER        -->
 <!-- =============================== -->
 <!-- Replace the link below with your own banner image -->
-<img src="https://via.placeholder.com/1200x300.png?text=Your+Banner+Here" width="100%" alt="Banner"/>
+![Banner](https://github.com/mrchipsmaruf/mrchipsmaruf/blob/main/portfolio%20banner.png)
 
 <br/>
 
