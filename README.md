@@ -63,7 +63,7 @@ Passionate about building scalable full-stack websites and exploring cryptocurre
 ---
 
 ## 🚀 **Featured Projects**
-- 🔗 [PlateShare](https://github.com/mrchipsmaruf/my-first-website)  
+- 🔗 [PlateShare](https://github.com/mrchipsmaruf/PlateShare-Client)  
 - 🔗 [web-dev-portfolio](https://github.com/mrchipsmaruf/web-dev-portfolio)  
 - 🔗 [g3-architect-website](https://github.com/mrchipsmaruf/g3-architect-website)
 
