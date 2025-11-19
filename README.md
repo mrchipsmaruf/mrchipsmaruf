@@ -4,6 +4,8 @@
 <!-- Replace the link below with your own banner image -->
 ![Banner](https://github.com/mrchipsmaruf/mrchipsmaruf/blob/main/portfolio%20banner.png)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+this+is+Al+Maruf" alt="Typing SVG" /></a>
+
 <br/>
 
 # 👋 Hi, I'm **Al Maruf**
