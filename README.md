@@ -13,7 +13,7 @@ Passionate about building scalable full-stack websites and exploring cryptocurre
 ---
 
 ## 🚀 **About Me**
-- 🌱 Currently learning **Next.js, TypeScript & Firebase**
+- 🌱 Currently learning **Next.js, TypeScript**
 - 💻 I love building full-stack websites  
 - 🎯 Goal: Become a professional MERN/Next.js developer  
 - 📫 Email: **marufsiam441@gmail.com**  
