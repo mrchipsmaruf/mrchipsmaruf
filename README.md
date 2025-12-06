@@ -17,7 +17,7 @@ Passionate about building scalable full-stack websites and exploring cryptocurre
 - 🌱 Currently learning **Next.js, TypeScript**
 - 💻 I love building full-stack websites  
 - 🎯 Goal: Become a professional MERN/Next.js developer  
-- 📫 Email: **marufsiam441@gmail.com**  
+- 📫 Email: **muhammad.almaruf001@gmail.com**  
 - 📍 Dhaka, Bangladesh  
 
 ---
