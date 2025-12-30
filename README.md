@@ -2,7 +2,7 @@
 <!--        🌟 PROFILE BANNER        -->
 <!-- =============================== -->
 <!-- Replace the link below with your own banner image -->
-![Banner](https://github.com/mrchipsmaruf/mrchipsmaruf/blob/main/portfolio%20banner.png)
+![Banner](https://github.com/mrchipsmaruf/mrchipsmaruf/blob/main/banner.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+this+is+Al+Maruf" alt="Typing SVG" /></a>
 <br/>
@@ -65,8 +65,8 @@ Passionate about building scalable full-stack websites and exploring cryptocurre
 
 ## 🚀 **Featured Projects**
 - 🔗 [PlateShare](https://github.com/mrchipsmaruf/PlateShare-Client)  
-- 🔗 [web-dev-portfolio](https://github.com/mrchipsmaruf/web-dev-portfolio)  
-- 🔗 [g3-architect-website](https://github.com/mrchipsmaruf/g3-architect-website)
+- 🔗 [novapress](https://github.com/mrchipsmaruf/Novapress.git)  
+- 🔗 [warmpaws](https://github.com/mrchipsmaruf/WarmPaws.git)
 
 ---
 
